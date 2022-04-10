@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_a_student_name">Enter a student Name</string>
+    <string name="enter_a_student_address">Enter a student Address</string>
+    <string name="student_address">Student Address </string>
+    <string name="personal_data">Personal Data</string>
+    <string name="student_name">Student Name </string>
+    <string name="next">Next</string>
+    <string name="university_number">University Number</string>
+    <string name="enter_a_university_specialization">Enter a University Specialization</string>
+</resources>
